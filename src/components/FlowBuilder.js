@@ -12,7 +12,7 @@ import ReactFlow, {
 import 'reactflow/dist/style.css';
 
 import NodePanelSidebar from './NodePanelSidebar';
-import TextMessageNode from './nodes/TextMessageNode';
+import TextMessageNode from "./TextMessages/TextMessageNode";
 import CustomEdge from './CoustomEdge/CustomEdge';
 import Header from './Header';
 
