@@ -2,7 +2,7 @@
 
 import React from 'react';
 import NodeSelector from './NodeSelector';
-import TextNodeEditor from './editors/TextNodeEditor';
+import TextNodeEditor from "./TextMessages/TextMessageNode";
 
 export default function NodePanelSidebar({selectedNode, updateSelectedNode, cancelSelection}) {
   return (
